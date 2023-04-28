@@ -1,0 +1,1 @@
+A dark evil land. Controlled by [[Strahd]].

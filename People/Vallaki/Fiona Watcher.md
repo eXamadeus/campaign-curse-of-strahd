@@ -1,0 +1,1 @@
+Fiona is some person mentioned by a child tearing down garlands in [[Vallaki]]. Apparently she is a relative of the "watcher brothers" ([[Karl Watcher|Karl]] and [[Nikolai Watcher|Nikolai]])

@@ -1,0 +1,1 @@
+A dictatorial ruler of [[Vallaki]]. The Burgomaster seems to punish people that don't participate in his "festivals".

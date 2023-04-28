@@ -1,0 +1,1 @@
+A goblin artillerist artificer. Lost his friend [[BR-UT-3]].

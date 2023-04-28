@@ -1,0 +1,1 @@
+Brother of [[Nikolai Watcher]]. He was in the [[Blue Water Inn]] when we entered it for the first time.

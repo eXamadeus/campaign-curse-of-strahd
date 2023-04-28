@@ -1,0 +1,1 @@
+[[Sprocket]]'s eldritch cannon. Named after [[BR-UT-3]].

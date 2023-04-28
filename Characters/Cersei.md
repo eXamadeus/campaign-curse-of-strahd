@@ -1,0 +1,1 @@
+A dhampir woman that looks a LOT like [[Ireena Kolyana|Ireena]].

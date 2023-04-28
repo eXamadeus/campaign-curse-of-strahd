@@ -1,0 +1,1 @@
+An orc paladin. Loves sheep. A little slow. Good guy. Has no idea what gender is.

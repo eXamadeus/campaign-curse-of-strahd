@@ -1,0 +1,40 @@
+The party headed towards the [[Blue Water Inn]].
+
+---
+- There are ravens all over the inn.
+	- This was one of the signs [[Madam Eva]] told us about.
+- [[Sprocket]] and [[Aran]] were able to feed some of the Ravens
+- The "leader" raven took off into the city after "talking" with the other ravens
+	- [[Lil' BR-UT-3]] followed it and eventually, they returned
+	- The raven dropped a key in [[Aran]]'s hand
+- The party went into the inn after deciding, "the ravens are kinda special, huh?"
+	- There's a bartender, [[Danica]], who tells us about [[Baron (Vallakovich)|the burgomeister]]
+	- Two men are in the inn, and a woman enters behind and seems to be "watching us"
+		- The men are [[Karl Watcher]] and [[Nikolai Watcher]] the "Watcher Brothers"
+		- The men tried to purchase [[Cersei]] and [[Ireena Kolyana]]
+		- [[Aran]] tried to "sell them" but just wanted to get the money before knocking them out and running away
+		- [[Cersei]] don't want none of that
+		- The watchers decide they might want to make a deal, we oblige, and they buy us drinks
+		- Who was that woman? They say she's an order of the ravens
+	- The men leave
+	- Lightning cracks and it begins pouring rain
+		- [[Danica]] says, "Oh they aren't going to have the lighting now"
+		- Bells start ringing, and the barkeep says "that's where the town learns of the fate of the festival"
+		- The party sends [[Ismark Kolyanovich]] off to check out the bell meeting
+- The party decides fuck it, and goes to bed
+	- [[Aran]] realizes the key the raven dropped off looks a lot like the one for the room
+	- [[Sprocket]] finds the room the key goes to
+	- [[Aran]] finds a book in the sheets. The notes say:
+		- The city is cruel and "they" (the authors) want to do something about it
+		- Going to meet with the [[The Ravens|"Keepers of the Feather"]]
+		- Wereraven
+		- [[Brom]] and [[Bray]] are going to show me a secret
+		- Note about the [[Mardakovs]] who run the [[Blue Water Inn]] who are friends of the "Keepers"
+- The party heads back upstairs for the night
+- Cersei has the highest body count
+- [[Aran]] left with [[Tabitha]]
+- Morning comes and the gang eats breakfast
+	- Eggs, meat, and porridge
+- [[Nora|The girl]] that was punished for disrupting the festival came to see us
+	- Told us her friend, [[Arabelle]], went missing and a man named [[Bluto]] is the chief suspect
+	- She gave us back [[The Keys]] and told us which one unlocks the jail

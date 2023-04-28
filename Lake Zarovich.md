@@ -1,0 +1,1 @@
+A lake that [[Bluto]] fishes from. Just north of Vallaki.

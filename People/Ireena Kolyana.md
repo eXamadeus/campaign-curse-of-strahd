@@ -1,0 +1,1 @@
+The daughter of the Burgomaster, [[Kolyan]]. Ireena is the target of [[Strahd]].

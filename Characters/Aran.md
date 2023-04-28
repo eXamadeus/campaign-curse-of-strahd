@@ -1,0 +1,1 @@
+A cleric of [[Selûne]]. He came to [[Barovia]] looking for his adoptive daughter, [[Celeste]].
