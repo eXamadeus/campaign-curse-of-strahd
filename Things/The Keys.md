@@ -1,0 +1,1 @@
+The guard keys that [[Sprocket]] stole. They should unlock the jail cell.

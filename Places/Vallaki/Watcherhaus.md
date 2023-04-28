@@ -5,4 +5,4 @@ This is the house of the Watchers.
 - [[Karl Watcher]]
 
 ---
-- 
+- Its located in [[Vallaki]]

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7fa99cbd697f179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Gulthias Tree.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b5be96369bb637e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/5 - Fishing for Men.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Gulthias Tree.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Gulthias Tree.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Gulthias Tree.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,34 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7fa99cbd697f179",
+  "active": "b5be96369bb637e2",
   "lastOpenFiles": [
+    "Places/Barovia/Barovia.md",
+    "Places/Barovia",
+    "Places/Vallaki/Watcherhaus.md",
+    "Places/Barovia/Lake Zarovich.md",
+    "Places/Barovia/Gulthias Tree.md",
+    "Places/Vallaki/Blue Water Inn.md",
+    "Places/Vallaki/Vallaki.md",
+    "README.md",
+    "People/Barovia/Strahd.md",
+    "People/Barovia",
+    "People/The Village of Barovia",
+    "People/Barovia/Madam Eva.md",
+    "People/The Village of Barovia/Kolyan.md",
+    "People/The Village of Barovia/Ireena Kolyana.md",
+    "People/The Village of Barovia/Ismark Kolyanovich.md",
+    "People/Vallaki/Tabitha.md",
+    "Chapters/4 - The Inn.md",
+    "People/Vallaki/Luvash.md",
+    "Aragal.md",
+    "People/Vallaki/Arabelle.md",
+    "Things/The Keys.md",
+    "Things",
+    "Organizations/Mardakovs.md",
+    "Chapters/1 - Night Hag Encounter.md",
+    "Chapters/5 - Fishing for Men.md",
+    "Chapters.md",
+    "README",
     "Chapters/6 - Search for the Dead Tree (The Druid).md",
     "Untitled.md",
-    "People/Madam Eva.md",
-    "Places/Gulthias Tree.md",
-    "Chapters/5 - Fishing for Men.md",
-    "Chapters/4 - The Inn.md",
-    "People/Tabitha.md",
-    "People/Vallaki/Arabelle.md",
-    "Watcherhaus.md",
-    "People/Kolyan.md",
-    "People/Ismark Kolyanovich.md",
-    "People/Ireena Kolyana.md",
-    "Luvash.md",
     "Organizations/Vistani.md",
-    "Characters/Sprocket.md",
-    "People/Vallaki/Nora.md",
-    "People/Vallaki/Bluto.md",
-    "The Keys.md",
-    "People/Strahd.md",
-    "People/Unknown Woman.md",
-    "People/Vallaki/Fiona Watcher.md",
-    "People/Vallaki",
-    "People/Vallaki/Karl Watcher.md",
-    "People/Vallaki/Nikolai Watcher.md",
-    "People/Vallaki/Bray.md",
-    "People/Vallaki/Brom.md",
-    "Lake Zarovich.md"
+    "People/Vallaki"
   ]
 }
