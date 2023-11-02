@@ -1,0 +1,1 @@
+The man we killed at Lake Zarovich. He seems to be related to one of [[Madam Eva]]'s prophecies.
