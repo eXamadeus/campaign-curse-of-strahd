@@ -1,0 +1,1 @@
+[[Rictavio]]'s protege. A vampire hunter.

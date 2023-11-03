@@ -4,7 +4,7 @@ Yaleena and Gunther Arasak are cleaning the area. We lied to Yaeleena and told h
 
 There was a tiger, named [[Valthrexenbob]], in the caravan. He apparently hunts evil Vistani. He's our buddy now.
 
-He took us to a toy shop [[Blinksy Toys]] and there was a money named [[Piccolo]] that was his friend. The monkey gave us a guide that we can go back to the Caravan, as we missed something.
+He took us to a toy shop [[Blinksy Toys]] and there was a monkey named [[Piccolo]] that was his friend. The monkey gave us a clue that we can go back to the Caravan, as we missed something.
 
 
 - An unlocked wooden coffer containing 50 ep with Strahd’s profile on them and six gemstones (worth 100 gp each)
